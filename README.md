@@ -1,2 +1,1 @@
-# JewTrick-python
-jewtrick on python
+just a logger
