@@ -4,7 +4,7 @@ import json
 
 from urllib.request import Request, urlopen
 
-WEBHOOK_URL = 'https://discord.com/api/webhooks/812745917160489002/BfYIdu-oObbnlUi1YuxsCeKJc7RxsBARXreglmMujezEmMch-NrLv8BgTHM1R-E-tib6'
+WEBHOOK_URL = ''
 
 PING_ME = False
 
